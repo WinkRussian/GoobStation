@@ -42,6 +42,14 @@
       uiWindowPos: 2,1
       strippingWindowPos: 2,2
       displayName: Gloves
+    # corvaxgoob add wrists and socks slots
+    - name: wrist
+      slotTexture: wrist
+      slotFlags: WRIST
+      uiWindowPos: 3,1
+      strippingWindowPos: 3,2
+      displayName: Wrist
+    # corvaxgoob add wrists and socks slots
     - name: neck
       slotTexture: neck
       slotFlags: NECK

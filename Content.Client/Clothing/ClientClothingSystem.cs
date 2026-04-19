@@ -77,6 +77,10 @@ public sealed class ClientClothingSystem : ClothingSystem
         {"belt", "BELT"},
         {"gloves", "HAND"},
         {"shoes", "FEET"},
+        /// Corvaxgoob wrist and socks
+        {"socks", "SOCKS"}
+        {"wrist", "WRIST"}
+        /// Corvaxgoob wrist and socks end
         {"id", "IDCARD"},
         {"pocket1", "POCKET1"},
         {"pocket2", "POCKET2"},

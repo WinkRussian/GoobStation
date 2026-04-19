@@ -64,6 +64,21 @@
       uiWindowPos: 0,1
       strippingWindowPos: 0,2
       displayName: Jumpsuit
+    # corvaxgoob add wrist and socks
+    - name: socks
+      slotTexture: socks
+      slotFlags: SOCKS
+      stripTime: 6
+      uiWindowPos: 3,0
+      strippingWindowPos: 0,6
+      displayName: Socks
+    - name: wrist
+      slotTexture: wrist
+      slotFlags: WRIST
+      uiWindowPos: 2,3
+      strippingWindowPos: 3,2
+      displayName: Wrist
+    # corvaxgoob add wrist and socks
     - name: gloves
       slotTexture: gloves
       slotFlags: GLOVES
